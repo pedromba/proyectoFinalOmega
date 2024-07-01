@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*ESTILOS DE FORMULARIO*/
+ .formulario{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario h3{
+    text-transform: capitalize;
+    font-size: 14px;
+}
+.formulario .form{
+    width: 500px;
+    height: 100%; 
+    border:solid 1px black
+}
+
+.form .campos{
+    width: 100%;
+}
+.campos input[type="text"]{
+    display: block;
+    outline: none;
+    width: 100%;
+    border-bottom: 2px solid #D2D3D4;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+}
+.campos input[type="text"].correcto{
+    border-bottom: 2px solid #068C31;
+}
+.campos input[type="text"].incorrecto{
+    border-bottom: 2px solid darkred;
+}
+.campos input:focus{
+    border-bottom: 2px solid #6393EB;
+}
+
+.campos span{
+    font-size: 8px;
+    background-color: pink;
+    display: block;
+    padding: 5px;
+    margin-top: 2px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    color: darkred;
+    font-weight: bold;
+}
+.campos span.error{
+    display: block;
+}
+.campos span.valido{
+    display: none;
+}
+
+.campos textarea{
+    height: 50px;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #D2D3D4;
+    outline: none;
+    border-radius: 5px;
+}
+.campos textarea:focus{
+    border-bottom: 2px solid #6393EB;
+}
+
+.campos textarea.correcto{
+    border-bottom: 2px solid #068C31;
+}
+.campos textarea.incorrecto{
+    border-bottom: 2px solid darkred;
+}
+
+.btn{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn input[type="submit"]{
+    border: none;
+    background-color: #6393EB;
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+
+

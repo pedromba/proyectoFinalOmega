@@ -1,0 +1,66 @@
+[
+    {
+        "imagen": "img/hombre/img (2).jpg",
+        "producto": "Sudadera",
+        "precio":"28.000 FCFA",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "whatsapp":"+240222286618",
+        "telefono":"+240222642330"
+    },
+    {
+        "imagen": "img/hombre/img (3).jpg",
+        "producto": "Seda B/N",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"12.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/hombre/img (4).jpg",
+        "producto": "Conjunto retro",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"20.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/zapatos/zp4.jpg",
+        "producto": "Adidas Sport",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"30.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/hombre/img (13).jpg",
+        "producto": "Ceda Hawahiana",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"15.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/zapatos/zp2.jpg",
+        "producto": "Air Force One",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"3000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/zapatos/zp6.jpg",
+        "producto": "Adidas 360",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"3000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/hombre/img (23).jpg",
+        "producto": "Chandal PMO",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"18.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    }
+]

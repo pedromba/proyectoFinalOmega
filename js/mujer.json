@@ -1,0 +1,66 @@
+[
+    {
+        "imagen": "img/mujer/img (1).jpg",
+        "producto": "Conjunto Zara",
+        "precio":"18.000 FCFA",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "whatsapp":"+240222286618",
+        "telefono":"+240222642330"
+    },
+    {
+        "imagen": "img/mujer/img (2).jpg",
+        "producto": "Orange Zara",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"12.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/mujer/img (3).jpg",
+        "producto": "Jeans Cortos",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"20.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/mujer/img (4).jpg",
+        "producto": "Blusa CK",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"30.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/mujer/img (5).jpg",
+        "producto": "Vestido",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"150.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/mujer/img (6).jpg",
+        "producto": "Medias deportivas",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"3000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/mujer/img (7).jpg",
+        "producto": "Conjunto LV",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"3000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    },
+    {
+        "imagen": "img/mujer/img (8).jpg",
+        "producto": "Conjunto XL",
+        "descripcion": "el ultimo producto de nuestra linea, a buen precio y disponible a tu alcance.",
+        "precio":"18.000 FCFA",
+        "whatsapp":"+240222286618",
+        "telefono":"222642330"
+    }
+]
